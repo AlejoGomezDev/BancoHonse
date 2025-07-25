@@ -16,7 +16,7 @@ Este sistema fue desarrollado como **proyecto integrador final** para la **Tecni
 
 - Java (JSP + Servlets)
 - MySQL
-- HTML, CSS, Bootstrap
+- HTML, CSS, JavaScript
 - Patrón de capas: JSP (Vista) — Servlet (Controlador) — Negocio (Lógica) — DAO (Acceso a datos)
 - Manejo de sesiones con Cookies
 
